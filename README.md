@@ -7,20 +7,21 @@ This guide explains how to create, populate, and start a sprint in Jira.
 ## Creating a sprint project
 
 1. From the Jira landing page, select the **Project** menu from the top menu bar.
+   ![project_name](Project_name.png)
 2. In the Project menu, select **Create Project** as shown in this image:
 
    ![Create Project](#)
 
-3. Select a template from the options on the left menu. Most sprints at Great Expectations use the **Software Development** template.
-4. Select the **Scrum** project type.
-5. At the bottom of the page, select **Use template**.
-6. Select either the **Team-managed** or **Company-managed** board:
+4. Select a template from the options on the left menu. Most sprints at Great Expectations use the **Software Development** template.
+5. Select the **Scrum** project type.
+6. At the bottom of the page, select **Use template**.
+7. Select either the **Team-managed** or **Company-managed** board:
    - **Team-managed boards** give more autonomy to individual teams.
    - **Company-managed boards** prioritize centralized control and uniformity across projects.  
    For more details, see [Atlassian Support: Team-managed vs. Company-managed projects](https://support.atlassian.com/jira-software-cloud/docs/learn-the-basics-of-team-managed-projects/).
-7. Enter a name for the project in the **Name** field.
-8. Select an access level. Most projects at Great Expectations use **Limited access**.
-9. Select **Create project**. Your new project will now appear in the project menu in Jira.
+8. Enter a name for the project in the **Name** field.
+9. Select an access level. Most projects at Great Expectations use **Limited access**.
+10. Select **Create project**. Your new project will now appear in the project menu in Jira.
 
 ---
 
