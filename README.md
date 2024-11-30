@@ -51,6 +51,7 @@ Before populating your sprint, you need to create issues for any work tasks rele
    - **Epic**
    - **Task**
    - **Bug**  
+
    For more details on issue types, see the [Jira Documentation](https://www.atlassian.com/software/jira/guides/issues/overview#what-is-an-issue).
 
 5. Write a brief description detailing what you want to accomplish in the issue. 
