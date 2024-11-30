@@ -1,10 +1,10 @@
-# How to Launch Jira Sprints
+# How to launch Jira sprints
 
 This guide explains how to create, populate, and start a sprint in Jira.
 
 ---
 
-## Creating a Sprint Project
+## Creating a sprint project
 
 1. From the Jira landing page, select the **Project** menu from the top menu bar.
 2. In the Project menu, select **Create Project** as shown in this image:
@@ -24,11 +24,11 @@ This guide explains how to create, populate, and start a sprint in Jira.
 
 ---
 
-## Populating a Sprint
+## Populating a sprint
 
 Now that you have created a sprint project, you can populate it with issues such as epics, stories, or tasks.
 
-### Creating Issues
+### Creating issues
 
 Before populating your sprint, you need to create issues for any work tasks relevant to that sprint:
 
@@ -51,7 +51,7 @@ Before populating your sprint, you need to create issues for any work tasks rele
 5. Write a brief description of the issue you want to include.
 6. Repeat steps 3 through 5 to create as many issues as needed.
 
-### Migrating Issues
+### Migrating issues
 
 If you have issues not assigned to your project, you can transfer them to your project:
 
@@ -63,7 +63,7 @@ If you have issues not assigned to your project, you can transfer them to your p
 
 ---
 
-## Starting a Sprint
+## Starting a sprint
 
 Now that you have a sprint populated with issues, you can launch the sprint to get it started:
 
