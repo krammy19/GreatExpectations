@@ -1,6 +1,8 @@
 # How to launch Jira sprints
 
-This internal Great Expectations guide explains how to create, populate, and start a sprint in Jira. A Jira sprint is a fixed-duration period in Agile development that enables teams to focus on prioritized tasks and deliver incremental value.
+This internal Great Expectations guide explains how to create, populate, and start a sprint in Jira. 
+
+A Jira sprint is a fixed-duration period in Agile development that enables teams to focus on prioritized tasks and deliver incremental value.
 
 ---
 
@@ -9,7 +11,7 @@ This internal Great Expectations guide explains how to create, populate, and sta
 To create and launch sprints in Jira, you need the following: 
 
 * Access to the Great Expectations Jira account
-* The "Manage Sprints" permission in Jira. 
+* The `Manage sprints` permission in Jira. 
 
 ## Creating a sprint project
 
